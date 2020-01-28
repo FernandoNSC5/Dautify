@@ -6,7 +6,8 @@
 ![Version](https://img.shields.io/badge/Version-1.1-lightgrey.svg?style=popout)
 
 A simple way to control media on your O.S.
-Install, run, use.
+
+[DOWNLOAD](https://github.com/FernandoNSC5/Dautify.git), Install, run, use.
 
 ## Summary
 * [Usage](#usage)
