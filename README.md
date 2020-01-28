@@ -8,7 +8,12 @@
 A simple way to control media on your O.S.
 Install, run, use.
 
-### Usage
+## Summary
+* [Usage](#usage)
+* [Installation](#installing)
+* [Adding to startup](#running-the-script-on-the-startup)
+
+## Usage
 - Next Music/Media
     ```sh
       CTRL + ALT + →
@@ -24,8 +29,16 @@ Install, run, use.
       CTRL + ALT + ↓ 
     ```
     
-### Installing
+## Installing
 - Install 'AutoHotkey_1.1.32.00_setup.exe' file
 - Run (double click) dautfy.ahk
+
+
+##  Running the script on the startup 
+Follow the steps:
+- Copy/cut dautfy.ahk
+- Press Win + R or open the "Run" dialog
+- Type shell:startup and hit 'Enter' or 'Ok' button
+- Paste dautfy.ahk
 
 Enjoy (:
