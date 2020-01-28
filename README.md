@@ -35,12 +35,12 @@ A simple way to control media on your O.S.
 - Run (double click) dautfy.ahk
 
 
-##  Running the script on the startup 
+##  Running the script on system's startup 
 Follow the steps:
 - Copy/cut dautfy.ahk
-- Press Win + R or open the "Run" dialog
-- Type shell:startup and hit 'Enter' or 'Ok' button
-- Paste dautfy.ahk
+- Press 'Win' + 'R' or open the "Run" dialog
+- Type 'shell:startup' and hit 'Enter' or 'Ok' button
+- Paste 'dautfy.ahk'
 
 ##### Add 'dautfy' to the startup folder __ONLY IF__ you want it to execut when windows starts up. Otherwise, just double click 'dautfy.ahk' everytime you want to use it. :shipit:
 
