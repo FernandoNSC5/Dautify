@@ -7,7 +7,7 @@
 
 A simple way to control media on your O.S.
 
-[DOWNLOAD](https://github.com/FernandoNSC5/Dautify.git), Install, run, use.
+[DOWNLOAD](https://github.com/FernandoNSC5/Dautify/archive/master.zip), Install, run, use.
 
 ## Summary
 * [Usage](#usage)
