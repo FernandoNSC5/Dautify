@@ -4,6 +4,7 @@
 ![Programming Language](https://img.shields.io/github/languages/top/FernandoNSC5/Dautify.svg?color=lightgrey&logo=Hexo&logoColor=lightgrey) 
 [![License](https://img.shields.io/cran/l/devtools?color=lightgrey&logoColor=black)](LICENSE)
 ![Version](https://img.shields.io/badge/Version-1.1-lightgrey.svg?style=popout)
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=FernandoNSC5/Dautify)
 
 A simple way to control media on your O.S.
 
