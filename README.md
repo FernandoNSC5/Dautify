@@ -42,6 +42,6 @@ Follow the steps:
 - Type 'shell:startup' and hit 'Enter' or 'Ok' button
 - Paste 'dautfy.ahk'
 
-##### Add 'dautfy' to the startup folder __ONLY IF__ you want it to execut when windows starts up. Otherwise, just double click 'dautfy.ahk' everytime you want to use it. :shipit:
+##### Add 'dautfy' to the startup folder __ONLY IF__ you want it to run on windows starts up. Otherwise, just double click 'dautfy.ahk' everytime you want to use it. :shipit:
 
 Enjoy (:
